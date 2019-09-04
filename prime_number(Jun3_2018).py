@@ -19,7 +19,7 @@ def fractional_decomposition(n):
             i = i + 1
     return(li)
 n = 2
-max = int(input("How big the range is?\n"))
+max = int(input("어디까지 \n"))
 start_time = time.time()
 sosu = [2]
 while max > n:
